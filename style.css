@@ -1,0 +1,119 @@
+h1{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lora', serif;
+font-family: 'The Nautigal', cursive
+font-size: 300px;
+padding: 40px,20px;
+}
+.container{
+    margin: 100px;
+}
+span{
+    color: crimson;
+}
+#scroll{
+    font-size: 20px;
+}
+section{
+    display: flex;
+    padding-left: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
+.mission-1{
+    text-align: center;
+}
+p{40%
+    font-size: 20px;
+}
+.one{ 
+    width: 60%;
+    padding: 30px;
+    
+}
+.one-1 img{
+    padding-bottom: 50px;
+    padding-left: 150px;
+    width: 70%;
+    height: 92%;
+}
+.one-2 img{
+    width: 70%;
+    height: 92%;
+
+}
+#develop{
+    padding-right: 80px;
+    width: 50%;
+}
+.two{
+border-left-width: 5px;
+    border-left-style: solid;
+    border-left-color: purple;
+    
+}
+.button{
+    text-align: center;
+    text-decoration: thistle;
+    font-size: 20px;
+    background-color: tomato;
+    border: 50px;
+    padding:  20px;
+    border-radius: 5px;
+    width: 10%;
+     
+}
+.mission{
+    background-image: url(images/shapes/shape-6.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 20%;
+    margin-left: 40px;
+    margin-right: 30px;margin-bottom: 50px;
+    border-radius: 15px;
+    
+}
+.vission{
+    background-image: url(images/shapes/shape-5.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 20%;
+    padding-left: 40px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+
+}
+.goal{
+    background-image: url(images/shapes/shape-8.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 20%;
+    padding-left: 40px;
+    padding-right: 10px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+}
+.end-1{
+    text-align: center;
+    background-color: tomato;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.bg-1{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 12%
+}
+.bg-2{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 12%;
+}
+img{
+    height: 150px;
+    width: 30%;
+}
